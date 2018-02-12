@@ -1,0 +1,16 @@
+{"data":[
+  {
+    "id": 1,
+    "details": { 
+		"name": "01/01/1990",
+		"username": "***_**_7633",
+		"email": "782897526593",
+		"role": "CPUC20170912114 01700033-1",
+		"status": "Active",
+	    "action": {
+			"firstlink": "View/Edit Details",
+			"secondlink": "De-active user"
+		}
+    }
+  }  
+]} 
